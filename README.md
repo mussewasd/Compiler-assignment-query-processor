@@ -1,4 +1,4 @@
-Project Overview
+Overview
 QueryLang is a SQL-like query language compiler for in-memory data. It implements a complete query processing pipeline from SQL parsing to execution.
 
 Module Architecture
