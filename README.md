@@ -1,3 +1,25 @@
+Group 7: Query Language 
+Language: QueryLang 
+Description: SQL-like query language for in-memory data 
+Features: 
+• SELECT-FROM-WHERE queries 
+• Basic JOIN operations 
+• Aggregation (COUNT, SUM, AVG) 
+• GROUP BY and HAVING 
+• Nested queries (limited) 
+Deliverables: 
+1. Parser for query language 
+2. Query validation and semantic checking 
+3. Query optimization (selection pushdown) 
+4. Intermediate representation for query plans 
+5. Code generation for query execution
+
+Group members
+Musse bezuayehu        IV3804
+Usama abdurahman       RW9051
+Gersam andualem        CN5224
+Nahom alehegne         RH3876
+
 Overview
 QueryLang is a SQL-like query language compiler for in-memory data. It implements a complete query processing pipeline from SQL parsing to execution.
 
