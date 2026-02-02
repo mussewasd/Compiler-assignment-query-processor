@@ -15,10 +15,10 @@ Deliverables:
 5. Code generation for query execution
 
 Group members
-Musse bezuayehu        IV3804
-Usama abdurahman       RW9051
-Gersam andualem        CN5224
-Nahom alehegne         RH3876
+1. Musse bezuayehu        IV3804
+2. Usama abdurahman       RW9051
+3. Gersam andualem        CN5224
+4. Nahom alehegne         RH3876
 
 Overview
 QueryLang is a SQL-like query language compiler for in-memory data. It implements a complete query processing pipeline from SQL parsing to execution.
